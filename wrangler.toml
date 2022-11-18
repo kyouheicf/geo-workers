@@ -1,0 +1,7 @@
+name = "geo-workers"
+main = "src/index.js"
+compatibility_date = "2022-11-18"
+
+routes = [
+    { pattern = "www.kyouhei.win/geo", zone_name = "kyouhei.win" }
+]
